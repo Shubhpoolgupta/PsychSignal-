@@ -179,6 +179,7 @@ The trained model is deployed using Streamlit, allowing users to:
   * Anxiety
   * Bipolar
   * Stress
+  * Personality disorder
 * Deployed the trained model through a Streamlit-based web application for real-time inference.
 
 
