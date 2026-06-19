@@ -1,6 +1,9 @@
 ﻿# PsychSignal
  # 🧠 PsychSignal - Mental Health Text Classification System
 
+<img width="1918" height="958" alt="Screenshot 2026-06-19 230819" src="https://github.com/user-attachments/assets/207743c7-a77a-4511-96df-dd8939075cd2" />
+
+
 ## 📌 Overview
 
 PsychSignal is an AI-powered application that analyzes user-provided text and predicts the underlying mental health condition using Natural Language Processing (NLP), Machine Learning, and Deep Learning techniques.
