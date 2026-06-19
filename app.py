@@ -47,7 +47,7 @@ def detection(text):
     predicted_class = torch.argmax(logits, dim=1).item()
     return label_encoder.inverse_transform([predicted_class])[0]
 # UI app
-st.title("Mental Health Status Detection Bert")
+st.title("PsychSignal: Mental Health Status Detection")
 
 input_text = st.text_input("Enter Your mental state here....")
 
